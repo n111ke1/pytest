@@ -1,0 +1,22 @@
+1513948085826	geckodriver	INFO	geckodriver 0.19.1
+1513948085835	geckodriver	INFO	Listening on 127.0.0.1:53405
+1513948087940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile.nbYHGqgNCl9V"
+1513948090876	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\User\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8812, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1513948097142	Marionette	INFO	Listening on port 53412
+1513948097447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1513948097539	Marionette	DEBUG	Register listener.js for window 4294967297
+1513948097891	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1513948098410	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1513948098410	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1513948100406	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://rozetka.com.ua/"
+1513948104118	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967309"
+1513948106984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967341"
+1513948107196	Marionette	DEBUG	Received DOM event "pageshow" for "https://rozetka.com.ua/"
+Unable to read VR Path Registry from C:\Users\User\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\User\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
